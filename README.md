@@ -15,7 +15,7 @@ API JS
 
 📂 Como Executar
 Clone este repositório:
-git clone https://github.com/seu-usuario/spotify-clone.git
+git clone https://github.com/CaioSouzx00/ReplicaSpotify.git
 
 Acesse a pasta do projeto:
 cd spotify-clone
