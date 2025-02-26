@@ -26,8 +26,5 @@ npm install
 Inicie o projeto:
 npm start
 
-📷 Preview
-(Adicione aqui uma imagem/gif do projeto rodando)
-
 📜 Licença
 Este projeto é apenas para fins educacionais e não possui vínculos oficiais com o Spotify.
