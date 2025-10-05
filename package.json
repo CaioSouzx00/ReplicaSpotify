@@ -17,5 +17,9 @@
     "url": "https://github.com/fullstackjornada/deploy-jornada-full-stack/issues"
   },
   "homepage": "https://github.com/fullstackjornada/deploy-jornada-full-stack#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
 }
